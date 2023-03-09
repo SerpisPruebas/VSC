@@ -2,3 +2,4 @@ hola que tal
 color azul
 color rosa
 color amarillo 
+ahora ya no pongo un color
